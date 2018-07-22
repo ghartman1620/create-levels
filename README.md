@@ -1,4 +1,6 @@
-this is the current repo for my assignment 3, creating levels, for CMPM147 at UCSC.
+This is the current repo for my assignment 3, creating levels, for CMPM147 at UCSC. Instructor Jo Mazeika 
+
+Author Gabriel Hartman
 
 Currently called "create-paths" as a placeholder name.
 
